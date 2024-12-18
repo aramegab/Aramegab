@@ -17,4 +17,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/aramegab"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aramegab" /></a></p><br><br>
 
-![.](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR5OWs3dWRqMXJsZW83MWptN2FtZXhmY2UyZTZlaHhxM2VlY3ltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZmHLGowrbwbao/giphy.webp)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR5OWs3dWRqMXJsZW83MWptN2FtZXhmY2UyZTZlaHhxM2VlY3ltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZmHLGowrbwbao/giphy.webp)
