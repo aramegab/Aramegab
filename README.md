@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aramegab&label=Profile%20views&color=0e75b6&style=flat" alt="aramegab" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aramegab](https://github.com/aramegab?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/aramegab?tab=repositories](https://github.com/aramegab?tab=repositories)
 
 - 📫 How to reach me [https://debugging_m0de.t.me/](https://debugging_m0de.t.me/)
 
