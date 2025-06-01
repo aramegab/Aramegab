@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aramegab&label=Profile%20views&color=0e75b6&style=flat" alt="aramegab" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aramegab](https://github.com/aramegab)
+- 👨‍💻 All of my projects are available at [https://github.com/aramegab](https://github.com/aramegab?tab=repositories)
 
 - 📫 How to reach me [https://debugging_m0de.t.me/](https://debugging_m0de.t.me/)
 
@@ -14,4 +14,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/aramegab"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aramegab" /></a></p><br><br>
 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR5OWs3dWRqMXJsZW83MWptN2FtZXhmY2UyZTZlaHhxM2VlY3ltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZmHLGowrbwbao/giphy.webp)
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTczejdhbTM4eDBocmZ3NXlwMmlrMDl6NmNsamtwc2Fiemh6cHlmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
