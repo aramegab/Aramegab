@@ -10,12 +10,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aramegab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 
-<img src="https://github.com/aramegab/aramegab/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-
 <h3>🚀 Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,docker,postgres,redis,nginx,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,docker,postgres,redis,nginx,linux,git,github,figma,kali" />
 </p>
 
 
@@ -33,7 +30,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJxY2p2dG9rZ3BmMG5tZzV5b2VlZ2J6dGJ1bGJtYzZqZzV6eGZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" />
+  ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR5OWs3dWRqMXJsZW83MWptN2FtZXhmY2UyZTZlaHhxM2VlY3ltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZmHLGowrbwbao/giphy.webp)
 </p>
 
 
