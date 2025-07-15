@@ -2,7 +2,8 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDD8&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Arame;Python+Backend+Developer;Open-Source+Enthusiast;Problem+Solver" alt="Typing Animation" />
+  <h1>Hi 👋, I'm Arame</h1>
+  <h3>Python Backend developer</h3>
 </h1>
 
 
