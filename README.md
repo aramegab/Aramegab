@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR5OWs3dWRqMXJsZW83MWptN2FtZXhmY2UyZTZlaHhxM2VlY3ltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZmHLGowrbwbao/giphy.webp)
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR5OWs3dWRqMXJsZW83MWptN2FtZXhmY2UyZTZlaHhxM2VlY3ltcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZmHLGowrbwbao/giphy.webp">
 </p>
 
 
