@@ -7,14 +7,13 @@
 </h1>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=aramegab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-
 <h3>🚀 Languages and Tools:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,django,flask,fastapi,react,docker,postgres,mysql,redis,nginx,linux,git,github,figma,kali" />
 </p>
-
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/xh0ld.png" alt="" />
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=aramegab&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
