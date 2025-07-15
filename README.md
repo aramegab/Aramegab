@@ -12,7 +12,7 @@
 
 <h3>🚀 Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,csharp,django,flask,fastapi,docker,postgres,redis,nginx,linux,git,github,figma,kali" />
+  <img src="https://skillicons.dev/icons?i=python,cs,django,flask,fastapi,docker,postgres,redis,nginx,linux,git,github,figma,kali" />
 </p>
 
 
