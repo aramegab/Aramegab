@@ -13,7 +13,6 @@
 </p>
 <p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/xh0ld.png" alt="" />
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1997200" style='border:none;'>
 </p>
 
 <p>
