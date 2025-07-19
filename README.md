@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,django,flask,fastapi,react,docker,postgres,mysql,redis,nginx,linux,git,github,figma,kali" />
 </p>
 <p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/xh0ld.png" alt="" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/xh0ld.png" alt="thm" />
 </p>
 
 <p>
