@@ -13,6 +13,7 @@
 </p>
 <p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/xh0ld.png" alt="thm" />
+  [https://tryhackme-badges.s3.amazonaws.com/xh0ld.png](https://tryhackme-badges.s3.amazonaws.com/xh0ld.png?update=3)
 </p>
 
 <p>
